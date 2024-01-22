@@ -18,10 +18,10 @@ Untuk mengekstrak dan menampilkan data XML menggunakan Python, gunakan file beri
 
 ## Menampilkan Data XML dalam Browser
 Anda juga dapat menampilkan data XML dengan tata letak yang terstruktur menggunakan file CSS:
-- **style.css**: File CSS untuk mempercantik tampilan XML di browser.
+- **books.css**: File CSS untuk mempercantik tampilan XML di browser.
 
 ### Cara Penggunaan
 1. Buka file XML (`data.xml`) di browser Anda.
-2. Kaitkan file CSS (`style.css`) untuk meningkatkan tata letak dan visualisasi.
+2. Kaitkan file CSS (`books.css`) untuk meningkatkan tata letak dan visualisasi.
 
 *Author: IlhamGhaza*
