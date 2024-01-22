@@ -1,0 +1,43 @@
+bookstore {
+  font-family: Arial, sans-serif;
+}
+
+book {
+  display: block;
+  margin-bottom: 20px;
+}
+
+title {
+  font-size: 1.2em;
+  font-weight: bold;
+}
+
+author {
+  font-style: italic;
+}
+
+year, price, cover {
+  display: block;
+  margin-top: 5px;
+}
+/* books.css */
+
+/* Gaya untuk kategori "cooking" */
+book[category="cooking"] {
+background-color: #ffe4b5; /* Warna background untuk kategori "cooking" */
+}
+
+/* Gaya untuk kategori "novel" */
+book[category="novel"] {
+background-color: #add8e6; /* Warna background untuk kategori "novel" */
+}
+
+/* Gaya untuk kategori "non-fiction" */
+book[category="non-fiction"] {
+background-color: #98fb98; /* Warna background untuk kategori "non-fiction" */
+}
+
+/* Gaya untuk kategori "manga" */
+book[category="manga"] {
+background-color: #dda0dd; /* Warna background untuk kategori "manga" */
+}

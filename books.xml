@@ -1,0 +1,47 @@
+<bookstore>
+
+  <book category="cooking">
+    <title lang="en">Everyday Italian</title>
+    <author>Giada De Laurentiis</author>
+    <year>2005</year>
+    <publiser>
+       <name>lorem </name>
+       <location>indonesia</location>
+    </publiser>
+    <price>30.00</price>
+    <language>English</language>
+  </book>
+ 
+  <book category="novel">
+    <title lang="id">Laskar Pelangi</title>
+    <author>Andrea Hirata</author>
+    <year>2005</year>
+    <price>50000.00</price>
+    <language>Indonesian</language>
+  </book>
+ 
+  <book category="non-fiction">
+    <title lang="id">Negeri Para Bedebah</title>
+    <author>Tere Liye</author>
+    <year>2012</year>
+    <price>75000.00</price>
+    <language>Indonesian</language>
+  </book>
+ 
+  <book category="manga">
+    <title lang="ja">Kimetsu no Yaiba</title>
+    <author>Koyoharu Gotouge</author>
+    <year>2016</year>
+    <price>450</price>
+    <language>Japanese</language>
+  </book>
+ 
+  <book category="novel">
+    <title lang="ja">Noruwei no Mori</title>
+    <author>Haruki Murakami</author>
+    <year>1987</year>
+    <price>1500</price>
+    <language>Japanese</language>
+  </book>
+ 
+ </bookstore>
